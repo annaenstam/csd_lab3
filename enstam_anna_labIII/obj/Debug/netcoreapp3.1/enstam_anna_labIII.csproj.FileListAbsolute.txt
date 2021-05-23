@@ -1,0 +1,39 @@
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.exe
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.deps.json
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.runtimeconfig.json
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.runtimeconfig.dev.json
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.dll
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.pdb
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.csprojAssemblyReference.cache
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.AssemblyInfoInputs.cache
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.AssemblyInfo.cs
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.csproj.CoreCompileInputs.cache
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.dll
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.pdb
+U:\Contemporary Software Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.genruntimeconfig.cache
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.exe
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.deps.json
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.runtimeconfig.json
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.runtimeconfig.dev.json
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.dll
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.pdb
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.csprojAssemblyReference.cache
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.AssemblyInfoInputs.cache
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.AssemblyInfo.cs
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.csproj.CoreCompileInputs.cache
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.dll
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.pdb
+U:\Contemporary-Software-Development\enstam_anna_labIII\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.genruntimeconfig.cache
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.exe
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.deps.json
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.runtimeconfig.json
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.runtimeconfig.dev.json
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.dll
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\bin\Debug\netcoreapp3.1\enstam_anna_labIII.pdb
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.csprojAssemblyReference.cache
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.AssemblyInfoInputs.cache
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.AssemblyInfo.cs
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.csproj.CoreCompileInputs.cache
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.dll
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.pdb
+x:\Desktop\enstam_anna_labIII\enstam_anna_labIII\obj\Debug\netcoreapp3.1\enstam_anna_labIII.genruntimeconfig.cache

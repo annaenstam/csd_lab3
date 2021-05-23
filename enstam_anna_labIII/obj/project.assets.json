@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "U:\\Contemporary Software Development\\enstam_anna_labIII\\enstam_anna_labIII\\enstam_anna_labIII\\enstam_anna_labIII.csproj",
+      "projectUniqueName": "x:\\Desktop\\enstam_anna_labIII\\enstam_anna_labIII\\enstam_anna_labIII.csproj",
       "projectName": "enstam_anna_labIII",
-      "projectPath": "U:\\Contemporary Software Development\\enstam_anna_labIII\\enstam_anna_labIII\\enstam_anna_labIII\\enstam_anna_labIII.csproj",
+      "projectPath": "x:\\Desktop\\enstam_anna_labIII\\enstam_anna_labIII\\enstam_anna_labIII.csproj",
       "packagesPath": "C:\\Users\\anen0859\\.nuget\\packages\\",
-      "outputPath": "U:\\Contemporary Software Development\\enstam_anna_labIII\\enstam_anna_labIII\\enstam_anna_labIII\\obj\\",
+      "outputPath": "x:\\Desktop\\enstam_anna_labIII\\enstam_anna_labIII\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "enstam_anna_labIII": {
+      "commandName": "Project",
+      "commandLineArgs": "\"NW.CC , NC.CC , NW.NW , NE.CC , NW.SE , CE.CC , CW.CC , SE.CC , CW.NW , CC.CC , CW.SE , CC.NW , CC.SE , CE.NW , SW.CC , CE.SE , SW.NW , SE.SE , SW.SE\""
+    }
+  }
+}
